@@ -19,3 +19,7 @@ https://github.com/shamb0/phala-blockchain/commit/411d868e9406b84dfbc02899410026
 **Link to App-NG changes**
 
 https://github.com/shamb0/apps-ng/commit/4a52cc13312ddb3a90b6911459264f67e2c0e6c5
+
+**Tweet Link**
+
+https://twitter.com/0shamb0/status/1318871264870551552?s=20
